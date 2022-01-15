@@ -8,7 +8,8 @@
 
 ## 💻 Project
 
-Fullstack Website project to list and rate movies with database persistence and REST API communication.
+Fullstack Website project to list and rate movies with database persistence and REST API communication. <br>
+If you want to visit the website, just click [here](<https://gustavotch-dsmovie.netlify.app>) and wait a few minutes to the server start.
 
 ## :hammer_and_wrench: Features
 
