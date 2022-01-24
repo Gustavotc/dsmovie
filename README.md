@@ -27,6 +27,7 @@ If you want to visit the website, just click [here](<https://gustavotch-dsmovie.
 - [ ] React
 - [ ] Typescript
 - [ ] Spring
+- [ ] Java
 - [ ] PostgreSQL
 - [ ] H2 Database Engine
 - [ ] Axios
